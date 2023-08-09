@@ -1,0 +1,10 @@
+{
+  "BlacklistedUser1": {
+    "users": ["e"],
+    "color": "#FF0000"
+  },
+  "BlacklistedUser2": {
+    "users": ["e"],
+    "color": "#FF0000"
+  }
+}
